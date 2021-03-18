@@ -37,6 +37,10 @@ If you are interested in this repo, any [pull request](https://github.com/inconn
 - wav2vec-c: [Wav2vec-C: A Self-supervised Model for Speech Representation Learning](https://arxiv.org/pdf/2103.08393.pdf)
 
 
+## APC
+[Generative pre-training for speech with autoregressive predictive coding](https://arxiv.org/pdf/1910.12607.pdf)（昨天和xi wang老师还聊到表征学习、预训练这个问题）
+
+
 
 
 
