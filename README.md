@@ -32,6 +32,23 @@ If you are interested in this repo, any [pull request](https://github.com/inconn
 - \beta VAE:[PREVENTING POSTERIOR COLLAPSE WITH δ-VAES](https://arxiv.org/pdf/1901.03416.pdf)(ICLR 2019)
 
 
+# Speech Representation Learning Papers
+## CPC
+- wav2vec-c: [Wav2vec-C: A Self-supervised Model for Speech Representation Learning](https://arxiv.org/pdf/2103.08393.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
