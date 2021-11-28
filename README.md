@@ -1,4 +1,4 @@
-# Disentangled-paper
+# Speech representation learning-paper
 
 <!-- vim-markdown-toc GFM -->
 
@@ -33,12 +33,20 @@ If you are interested in this repo, any [pull request](https://github.com/inconn
 
 
 # Speech Representation Learning Papers
+## Universal representation
+- [SpeechNet](https://arxiv.org/pdf/2105.03070.pdf)
+- [SpeechT5](https://arxiv.org/pdf/2110.07205.pdf)
+
+
 ## CPC
 - wav2vec-c: [Wav2vec-C: A Self-supervised Model for Speech Representation Learning](https://arxiv.org/pdf/2103.08393.pdf)
 
 
 ## APC
 [Generative pre-training for speech with autoregressive predictive coding](https://arxiv.org/pdf/1910.12607.pdf)（昨天和xi wang老师还聊到表征学习、预训练这个问题）
+
+## For VC
+- Pretraining for VC (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9314100)
 
 
 
